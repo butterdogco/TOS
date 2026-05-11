@@ -15,10 +15,13 @@ If a user who has agreed to the terms, and is therefore obligated to follow them
 
 Terms of Use
 
-By using the services provided by the distributor, in addition to the rules listed above, users also agree to the following terms:
+By using the services provided by the distributor, in addition to the rules listed above, users also agree to the following terms, regardless of whether or not this document has been read or signed off on. By using any one service provided by the company, the customer automatically agrees to the terms and conditions of all services provided by the company.
   1) It is prohibited to use the services provided by the company to visit sites that are illegal, such as 
     i) pornography or erotica sites for minors (under 18 or under 19 and in high school)
     ii) narcotics trade websites, including pharmacies 
+	iii) arms trading websites
+(piracy and torrenting websites, although illegal, are allowed under the terms of use unless
+  	i) they are used to obtain pornography or erotica)
   2) It is prohibited to use the services of the company to plan out acts of terror, including
 	  i) bombings
 	  ii) shootings
@@ -26,3 +29,18 @@ By using the services provided by the distributor, in addition to the rules list
 	  iv) kidnappings
 	  v) mental harm of any kind
 	  vi) physical harm of any kind
+      vii) hacking of any kind, including but not limited to 
+		a) spamming
+		b) DDoS (Distributed Denial-of-Service) attacks
+		c) phishing
+	    d) cheating at video games
+        e) cryptomining
+  3) The services of the company are a priviledge, not a right. The company and its employees have the right to remove access to the provided products at any time. In such cases, the company is obligated to give no less than a 3 day notice. 
+  4) If, for any reason, a user's account has been removed by the company, they are not allowed to register a new account under any name, or on behalf of a third party.
+  5) The company is not liable for any defamations made by its customers. Customers are entirely responsible for representing themselves in legal cases with a third party that they have defamed or otherwise made bad comment against.
+  6) The company is not liable or responsible for any damages, whether physical, or psychological that may occur or arise while using the provided services. Users are expected to consult their medical professionals before utilizing the company's products, regardless of whether or not such disclaimers exist on those products. 
+  7) The company is not liable or responsible for any disciplinary action taken against its customers for using the services it provides. If legal action is mandated, the company will not provide legal help for convicted users, and if necessary, will fight against the user in the name of self-preservation. 
+
+Distribution of Content
+
+Users are prohibited from sharing or distributing this content with individuals over the age of 18 who are not in a k-12 education / GSC program. 
