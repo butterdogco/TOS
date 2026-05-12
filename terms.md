@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This document outlines the terms and conditions for the use of all products provided by ButterDogCo and its CEO, herein referred to as "The Company", "The Provider", or "The Distributor". The members of the ButterDogCo GitHub organization, admins of the ButterDogCo Discord Server, and are referred to as "The Employees", "The Developers", or "The Administrators". The services provided by the provider, such as Da Hub are referred to as "The Products", or "The Services". The persons who use this service are collectively referred to as "The Customers", "The Users", or "The Clients".
+This document outlines the terms and conditions for the use of all products provided by ButterDogCo and its CEO, herein referred to as "The Company", "The Provider", or "The Distributor". The members of the ButterDogCo GitHub organization, administrators of the ButterDogCo Discord Server, are referred to as "The Employees", "The Developers", or "The Administrators". The services provided by the provider, such as Da Hub, are referred to as "The Products" or "The Services". The persons who use this service are collectively referred to as "The Customers", "The Users", or "The Clients".
 
-By agreeing to the terms outlined below, the user forfeits the right to sue, defame, diss, rap battle, or otherwise engage — both legally and socially — the company regarding topics mentioned in the terms outlined below. Attempts to mislead or bamboozle others about the services provided by the company in a way that places the company and its employees at risk is also prohibited.
+By agreeing to the terms outlined below, the user forfeits the right to sue, defame, diss, rap battle, or otherwise engage — both legally and socially — the company regarding topics mentioned in the terms outlined below. Attempts to mislead or bamboozle others about the services provided by the company in a way that places the company and its employees at risk are also prohibited.
 
 The company of ButterDogCo is not allowed to change these terms of service without alerting the userbase. The company must give 10 business days of leeway before the following rules apply:
 
@@ -12,18 +12,18 @@ The company of ButterDogCo is not allowed to change these terms of service witho
 
 If a user who has agreed to the terms, and is therefore obligated to follow them, breaks said terms, the following rules apply.
 
-1) The company reserves the right to remove users from any and all products without notice
+1) The company reserves the right to remove or restrict access to users from any products or services without notice
 2) The company reserves the right to contact the appropriate authorities in the event that the consequences directly or indirectly lead to serious damages to the company that could result in
     1) a takedown, whether complete or partial, of the services provided by the company.
-    2) legal consequences for the developers  
+    2) legal consequences for the developers
 
-If at any moment a user lies about their usage intentions, their criminal record, illegal posession of products, or any other such item determined by the distributor at its discretion, the distributor has the right to suspend or terminate their account and refuse any and all current or future use of the products (or any portion thereof). If at any moment, there are multiple competing terms, for example these terms and the implied terms of a distributed product, the specific terms in this document are the ones which take superiority. In all cases, local law (The laws, regulations, and arbitrations of the state of Oregon) always takes superiority over the terms in this document.
+If at any moment a user lies about their usage intentions, their criminal record, illegal possession of products, or any other such item determined by the distributor at its discretion, the distributor has the right to suspend or terminate their account and refuse any and all current or future use of the products (or any portion thereof). If at any moment, there are multiple competing terms, for example, these terms and the implied terms of a distributed product, the specific terms in this document are the ones which take superiority. In all cases, local law (The laws, regulations, and arbitrations of the state of Oregon) always takes superiority over the terms in this document.
 
 ## Terms of Use
 
 By using the services provided by the distributor, in addition to the rules listed above, users also agree to the following terms, regardless of whether or not this document has been read or signed off on. By using any one service provided by the company, the customer automatically agrees to the terms and conditions of all services provided by the company.
 
-1) It is prohibited to use the services provided by the company to visit sites that are illegal, such as
+1) It is prohibited to use the services provided by the company to visit illegal sites, such as
     1) pornography or erotica sites for minors (under 18, or under 19 and in high school)
     2) narcotics trade websites, including pharmacies
     3) arms trading websites
@@ -40,68 +40,68 @@ By using the services provided by the distributor, in addition to the rules list
         3) phishing
         4) cheating at video games
         5) cryptomining
-3) The services of the company are a privilege, not a right. The company and it's employees have the right to remove access to the provided products at any time. In such cases, the company is obligated to give no less than a 3 day notice.
-4) If, for any reason, a user's account has been removed by the company, they are not allowed to register a new account under any name, or on behalf of a third party.
-5) The company is not liable for any defamations made by its customers. Customers are entirely responsible for representing themselves in legal cases with a third party that they have defamed or otherwise made bad comment against.
-6) The company is not liable or responsible for any damages, whether physical, or psychological that may occur or arise while using the provided services. Users are expected to consult their medical professionals before utilizing the company's products, regardless of whether or not such disclaimers exist on those products.
-7) The company is not liable or responsible for any disciplinary action taken against its customers for using the services it provides. If legal action is mandated, the company will not provide legal help for convicted users, and if necessary, will fight against the user in the name of self-preservation.
+3) The services of the company are a privilege, not a right. The company and its employees have the right to remove access to the provided products at any time. In such cases, the company is obligated to give no less than a 3-day notice.
+4) If, for any reason, a user's account has been removed by the company, they are not allowed to register a new account under any name or on behalf of a third party.
+5) The company is not liable for any defamation made by its customers. Customers are entirely responsible for representing themselves in legal cases against a third party that they have defamed or otherwise made a bad comment against.
+6) The company is not liable or responsible for any damages, whether physical or psychological, that may occur or arise while using the provided services. Users are expected to consult their medical professionals before utilizing the company's products, regardless of whether or not such disclaimers exist on those products.
+7) The company is not liable or responsible for any disciplinary action taken against its customers for using the services it provides. If legal action is mandated, the company will not provide legal help for convicted users and, if necessary, will fight against the user in the name of self-preservation.
 8) It is prohibited to access or use products through a bot, script, or other automated or non-human methods, unless explicitly authorized either in these terms or the rules of the product in question.
-9) The user is fully liable and responsible for any incidents that occur on third-party services or products connected to any of the services provided by the company, and likewise, any third-party services or producs that lead to any of the services provided by the company. Search results in Boogle Brome are considered third-party products despite being accessed through a service provided by the company.
+9) The user is fully liable and responsible for any incidents that occur on third-party services or products connected to any of the services provided by the company, and likewise, any third-party services or products that lead to any of the services provided by the company. Search results in Boogle Brome are considered third-party products despite being accessed through a service provided by the company.
 
 ## Code Of Conduct
 
 In addition to the rules expressed in the introduction, users are prohibited from the following actions
 
-1) Tricking, defrauding, or misleading the company, the employees and other users, especially in any attempt to learn sensitive account information such as user passwords.
+1) Tricking, defrauding, or misleading the company, the employees, and other users, especially in any attempt to learn sensitive account information such as user passwords.
 2) Using any information obtained from the Site in order to harass, abuse, or harm another person.
-3) Making improper use of provided support services or submit false reports of abuse or misconduct.
-4) Attempted or successful impersonation of a user or person or use the username of another user.
+3) Making improper use of provided support services or submitting false reports of abuse or misconduct.
+4) Attempted or successful impersonation of a user or person, or use of the username of another user.
 5) Harassing, annoying, intimidating, or threatening any employees
 
 ## Intellectual Property Rights
 
 Unless otherwise indicated, the company is the sole owner and manager of all provided services and products, including all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics (herein referred to as "The Content"), as well as any trademarks, service marks, and logos contained therein (herein referred to as "The Marks"). Unless otherwise indicated through these terms and only these terms, no part of the products, content, or marks provided by the company may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without prior written permission from the company. Furthermore, it is prohibited to utilize access to provided services to compete with the company in any form, regardless of whether or not any money is involved.
 
-Legal use of the provided services under the provided terms grants the user a limited license to the provided products, which allows for the downloading or copying, in full, or in part, of the services, content, or marks provided by the company, for the sole purpose of non-commercial, non-distributive, personal and private entertainment. If for any reason, a user loses access to the primary source of distribution for the company's services, they are obligated to delete any and all private and personal backups to those services. That is, local downloads and copies exist for the sole purpose of accessing provided content when the primary source of distribution is experiencing difficulties.
+Legal use of the provided services under the provided terms grants the user a limited license to the provided products, which allows for the downloading or copying, in full or in part, of the services, content, or marks provided by the company, for the sole purpose of non-commercial, non-distributive, personal, and private entertainment. If, for any reason, a user loses access to the primary source of distribution for the company's services, they are obligated to delete any and all private and personal backups to those services. That is, local downloads and copies exist for the sole purpose of accessing provided content when the primary source of distribution is experiencing difficulties.
 
 ## Distribution Of Content
 
-Users are prohibited from sharing or distributing services with
+Users are prohibited from sharing or distributing services with:
 
 1) individuals over the age of 18 who are not in a standard high school education program, as well as users who are under the age of 12.
 2) individuals who have been barred from using the products by the company or these terms.
-3) individuals who live in regions whose laws prevent the use of any of the products in the productbase of the company.
+3) individuals who live in regions whose laws prevent the use of any of the products in the product base of the company.
 
 ## Contributing
 
 First and foremost, the company does not assert ownership over any user-made contributions. Users retain full ownership of the contributions they provide, as well as any proprietary rights for their contributions. The company is not liable or responsible for any statements or representations in your contributions provided by you in any product given out by the company. Users who provide contributions agree to exonerate the company and its employees from any and all responsibility and agree to refrain from any legal action against the company regarding their contributions.
 
-By providing contributions to the company, users agree to the following
+By providing contributions to the company, users agree to the following:
 
 1) the contributions are not false, inaccurate, or misleading.
 2) the contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.
-3) the contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by by the company).
-4) the contributions do not ridicule, mock, disparage, intimidate, or abuse anyone, including legal harassemnt or threatening of any other person, and do not promote violence against a specific person or class of people.
-5) the contributions do not violate any applicable law concerning child pornography or otherwise intended to protect the health or well-being of minors.
+3) the contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by the company).
+4) the contributions do not ridicule, mock, disparage, intimidate, or abuse anyone, including legal harassment or threatening of any other person, and do not promote violence against a specific person or class of people.
+5) the contributions do not violate any applicable law concerning child pornography or are otherwise intended to protect the health or well-being of minors.
 6) the contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
 7) the contributions do not otherwise violate or link to material that violates any provision of these terms or any applicable law or regulation.
 
-The company has the right to modify any part of any user-made contribution. If the company modifies a core part of the contribution, such as the code, visual media (excluding favicons and other identification icons), or audio media (excluding haptic response feedback and login/boot/error sounds), the company is now in posession of a separate item from the original contribution. Therefore, any modified contribution that has had a core part modified is no longer the property of the conributing user but rather the property of the company. The original contribution is still, however, the property of the contributing user, and they may request at any point to reclaim possession of any and all files and content relating to the original version of the contribution. To this extent, the company is obligated to keep a backup of all original files and content, whether digital or physical, related to the original version of the contribution.
+The company has the right to modify any part of any user-made contribution. If the company modifies a core part of the contribution, such as the code, visual media (excluding favicons and other identification icons), or audio media (excluding haptic response feedback and login/boot/error sounds), the company is now in possession of a separate item from the original contribution. Therefore, any modified contribution that has had a core part modified is no longer the property of the contributing user but rather the property of the company. The original contribution is still, however, the property of the contributing user, and they may request at any point to reclaim possession of any and all files and content relating to the original version of the contribution. To this extent, the company is obligated to keep a backup of all original files and content, whether digital or physical, related to the original version of the contribution.
 
 ## User Feedback And Submissions
 
-The company may, at times, provide channels for clients to submit feedback regarding a provided service. Feedback given through improper channels will be ignored, as well as any feedback about any provided services that themselves do not provide channels for clients to submit feedback. Users are not allowed to use feedback channels of one service to provide feedback for another service, regardless of whether the two are connected in any way, including but not limited to webframes, links, or advertisements.
+The company may, at times, provide channels for clients to submit feedback regarding a provided service. Feedback given through improper channels will be ignored, as well as any feedback about any provided services that themselves do not provide channels for clients to submit feedback. Users are not allowed to use feedback channels of one service to provide feedback for another service, regardless of whether the two are connected in any way, including but not limited to web frames, links, or advertisements.
 
-Users agree that their feedback is entirely truthful and is constructive criticism aimed not to defame the company, its employees, or its servics, but rather to provide suggestions on changes the company could provide.
+Users agree that their feedback is entirely truthful and is constructive criticism aimed not to defame the company, its employees, or its services, but rather to provide suggestions on changes the company could make.
 
 ## Updates
 
-The following changes to the terms and conditons of ButterDogCo are not subject to the 10-day notification period for other changes
+The following changes to the terms and conditions of ButterDogCo are not subject to the 10-day notification period for other changes
 
 1) fixing typographical errors, inaccuracies, or omissions.
 
 ## Limitations of Liability
 
-Under no circumstances will the company or its employees be liable to any user or third party for any direct, indirect, exemplary, incidental, special, or punitive damages, including but not limited to lost  profit, lost revenue, or lost data, even if warnings or advice has been given to the company regarding the possibility of such damages.
+Under no circumstances will the company or its employees be liable to any user or third party for any direct, indirect, exemplary, incidental, special, or punitive damages, including but not limited to lost  profit, lost revenue, or lost data, even if warnings or advice have been given to the company regarding the possibility of such damages.
 
-The company is not liable for any downtime of any of its products or services, whether intentional or not, whether through hardware, software, or firmware problems, or other isses tat may arise. The company is not obligated to announce planned downtimes or provide an explanation for any downtime, intentional or not. The company is furthermore not obligated to notify the userbase about any change, revision, update, suspension, or discontinuation of any of its products or services. If any product or service provided by the company is blocked through any means, neither the company nor its employees are required to supply a backup or alternative access point to the blocked product or service. No part of these terms may be used to force the company to update any of its products or services for any reason; the company is the sole entity that decides what changes are made and when.
+The company is not liable for any downtime of any of its products or services, whether intentional or not, whether through hardware, software, or firmware problems, or other issues that may arise. The company is not obligated to announce planned downtimes or provide an explanation for any downtime, intentional or not. The company is furthermore not obligated to notify the userbase about any change, revision, update, suspension, or discontinuation of any of its products or services. If any product or service provided by the company is blocked through any means, neither the company nor its employees is required to supply a backup or alternative access point to the blocked product or service. No part of these terms may be used to force the company to update any of its products or services for any reason; the company is the sole entity that decides what changes are made and when.
