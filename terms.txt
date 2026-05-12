@@ -1,6 +1,6 @@
 Introduction
 
-This document outlines the terms and conditions for the use of all products provided by ButterDogCo and its CEO, herein referred to as "The Company", "The Provider", or "The Distributor". The members of the ButterDogCo GitHub organization, admins of the ButterDogCo Discord Server, and are reffered to as "The Employees", "The Developers", or "The Administrators". The services provided by the provider, such as Da Hub™ are referred to as "The Products", or "The Services". The persons who use this service are collectively referred to as "The Customers", "The Users", or "The Clients".
+This document outlines the terms and conditions for the use of all products provided by ButterDogCo and its CEO, herein referred to as "The Company", "The Provider", or "The Distributor". The members of the ButterDogCo GitHub organization, admins of the ButterDogCo Discord Server, and are referred to as "The Employees", "The Developers", or "The Administrators". The services provided by the provider, such as Da Hub™ are referred to as "The Products", or "The Services". The persons who use this service are collectively referred to as "The Customers", "The Users", or "The Clients".
 
 By agreeing to the terms outlined below, the user forfeits the right to sue, defame, diss, rap battle, or otherwise engage — both legally and socially — the company regarding topics mentioned in the terms outlined below. Attempts to mislead or bamboozle others about the services provided by the company in a way that places the company and its employees at risk is also prohibited.
 
@@ -36,7 +36,7 @@ piracy and torrenting websites, although illegal, are allowed under the terms of
 		c) phishing
 		d) cheating at video games
 		e) cryptomining
-3) The services of the company are a priviledge, not a right. The company and it's employees have the right to remove access to the provided products at any time. In such cases, the company is obligated to give no less than a 3 day notice. 
+3) The services of the company are a privilege, not a right. The company and it's employees have the right to remove access to the provided products at any time. In such cases, the company is obligated to give no less than a 3 day notice. 
 4) If, for any reason, a user's account has been removed by the company, they are not allowed to register a new account under any name, or on behalf of a third party.
 5) The company is not liable for any defamations made by its customers. Customers are entirely responsible for representing themselves in legal cases with a third party that they have defamed or otherwise made bad comment against.
 6) The company is not liable or responsible for any damages, whether physical, or psychological that may occur or arise while using the provided services. Users are expected to consult their medical professionals before utilizing the company's products, regardless of whether or not such disclaimers exist on those products. 
@@ -50,7 +50,7 @@ Code Of Conduct
 	1) Tricking, defrauding, or misleading the company, the employees and other users, especially in any attempt to learn sensitive account information such as user passwords.
 	2) Using any information obtained from the Site in order to harass, abuse, or harm another person.
 	3) Making improper use of provided support services or submit false reports of abuse or misconduct.
-	4) Attempted or succesful impersonation of a user or person or use the username of another user.
+	4) Attempted or successful impersonation of a user or person or use the username of another user.
 	5) Harassing, annoying, intimidating, or threatening any employees
 
 Intellectual Property Rights
@@ -81,7 +81,7 @@ Contributing
 	6) the contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.
 	7) the contributions do not otherwise violate or link to material that violates any provision of these terms or any applicable law or regulation.
 
-	The company has the right to modify any part of any user-made contribution. If the company modifies a core part of the contribution, such as the code, visual media (excluding favicons and other identificataion icons), or audio media (excluding haptic response feedback and login/boot/error sounds), the company is now in posession of a separate item from the original contribution. Therefore, any modified contribution that has had a core part modified is no longer the property of the conributing user but rather the property of the company. The original contribution is still, however, the property of the contributing user, and they may request at any point to reclaim possession of any and all files and content relating to the original version of the contribution. To this extent, the company is obligated to keep a backup of all original files and content, whether digital or physical, related to the original version of the contribution. 
+	The company has the right to modify any part of any user-made contribution. If the company modifies a core part of the contribution, such as the code, visual media (excluding favicons and other identification icons), or audio media (excluding haptic response feedback and login/boot/error sounds), the company is now in posession of a separate item from the original contribution. Therefore, any modified contribution that has had a core part modified is no longer the property of the conributing user but rather the property of the company. The original contribution is still, however, the property of the contributing user, and they may request at any point to reclaim possession of any and all files and content relating to the original version of the contribution. To this extent, the company is obligated to keep a backup of all original files and content, whether digital or physical, related to the original version of the contribution. 
 
 User Feedback And Submissions
 
