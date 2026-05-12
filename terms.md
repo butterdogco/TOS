@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This document outlines the terms and conditions for the use of all products provided by ButterDogCo and its CEO, herein referred to as "The Company", "The Provider", or "The Distributor". The members of the ButterDogCo GitHub organization, admins of the ButterDogCo Discord Server, and are referred to as "The Employees", "The Developers", or "The Administrators". The services provided by the provider, such as Da Hub™ are referred to as "The Products", or "The Services". The persons who use this service are collectively referred to as "The Customers", "The Users", or "The Clients".
+This document outlines the terms and conditions for the use of all products provided by ButterDogCo and its CEO, herein referred to as "The Company", "The Provider", or "The Distributor". The members of the ButterDogCo GitHub organization, admins of the ButterDogCo Discord Server, and are referred to as "The Employees", "The Developers", or "The Administrators". The services provided by the provider, such as Da Hub are referred to as "The Products", or "The Services". The persons who use this service are collectively referred to as "The Customers", "The Users", or "The Clients".
 
 By agreeing to the terms outlined below, the user forfeits the right to sue, defame, diss, rap battle, or otherwise engage — both legally and socially — the company regarding topics mentioned in the terms outlined below. Attempts to mislead or bamboozle others about the services provided by the company in a way that places the company and its employees at risk is also prohibited.
 
@@ -27,8 +27,6 @@ By using the services provided by the distributor, in addition to the rules list
     1) pornography or erotica sites for minors (under 18, or under 19 and in high school)
     2) narcotics trade websites, including pharmacies
     3) arms trading websites
-    4) piracy and torrenting websites, although illegal, are allowed under the terms of use unless
-        1) they are used to obtain pornography or erotica
 2) It is prohibited to use the services of the company to plan out acts of terror, including
     1) bombings
     2) shootings
@@ -48,7 +46,7 @@ By using the services provided by the distributor, in addition to the rules list
 6) The company is not liable or responsible for any damages, whether physical, or psychological that may occur or arise while using the provided services. Users are expected to consult their medical professionals before utilizing the company's products, regardless of whether or not such disclaimers exist on those products.
 7) The company is not liable or responsible for any disciplinary action taken against its customers for using the services it provides. If legal action is mandated, the company will not provide legal help for convicted users, and if necessary, will fight against the user in the name of self-preservation.
 8) It is prohibited to access or use products through a bot, script, or other automated or non-human methods, unless explicitly authorized either in these terms or the rules of the product in question.
-9) The user is fully liable and responsible for any incidents that occur on third-party services or products connected to any of the services provided by the company, and likewise, any third-party services or producs that lead to any of the services provided by the company. Search results in Boogle Brome™ are considered third-party products despite being accessed through a service provided by the company.
+9) The user is fully liable and responsible for any incidents that occur on third-party services or products connected to any of the services provided by the company, and likewise, any third-party services or producs that lead to any of the services provided by the company. Search results in Boogle Brome are considered third-party products despite being accessed through a service provided by the company.
 
 ## Code Of Conduct
 
