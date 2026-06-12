@@ -9,5 +9,7 @@ Version # (Start from 1, count up by 1 each time):
 ```
 
 Version 1:
+
 06/12/2026
-create initial TOS  
+
+- create initial TOS  
